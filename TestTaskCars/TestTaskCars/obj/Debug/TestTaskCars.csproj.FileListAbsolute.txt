@@ -1,0 +1,14 @@
+C:\Projects\TestTaskCars\TestTaskCars\bin\TestTaskCars.dll
+C:\Projects\TestTaskCars\TestTaskCars\bin\TestTaskCars.pdb
+C:\Projects\TestTaskCars\TestTaskCars\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\TestTaskCars\TestTaskCars\obj\Debug\TestTaskCars.dll
+C:\Projects\TestTaskCars\TestTaskCars\obj\Debug\TestTaskCars.pdb
+d:\хренопапка\TestTaskCars\TestTaskCars\bin\TestTaskCars.dll
+d:\хренопапка\TestTaskCars\TestTaskCars\bin\TestTaskCars.pdb
+d:\хренопапка\TestTaskCars\TestTaskCars\obj\Debug\TestTaskCars.dll
+d:\хренопапка\TestTaskCars\TestTaskCars\obj\Debug\TestTaskCars.pdb
+K:\хренопапка\TestTaskCars\TestTaskCars\bin\TestTaskCars.dll
+K:\хренопапка\TestTaskCars\TestTaskCars\bin\TestTaskCars.pdb
+K:\хренопапка\TestTaskCars\TestTaskCars\obj\Debug\ResolveAssemblyReference.cache
+K:\хренопапка\TestTaskCars\TestTaskCars\obj\Debug\TestTaskCars.dll
+K:\хренопапка\TestTaskCars\TestTaskCars\obj\Debug\TestTaskCars.pdb
